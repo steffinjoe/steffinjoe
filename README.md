@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @steffinjoe
+- 👀 I’m interested in programming, poetry, science and movies
+- 🌱 I’m currently learning what's new in cloud services and wonderful new javascript frameworks
+- 📫 You can find me in linked-in : https://www.linkedin.com/in/joseph-steffin/
